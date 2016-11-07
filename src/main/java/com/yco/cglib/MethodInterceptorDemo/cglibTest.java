@@ -1,4 +1,4 @@
-package com.yco.cglib.com.yco.cglib.MethodInterceptorDemo;
+package com.yco.cglib.MethodInterceptorDemo;
 
 import net.sf.cglib.proxy.Enhancer;
 

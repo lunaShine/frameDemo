@@ -1,4 +1,4 @@
-package com.yco.cglib.com.yco.cglib.MethodInterceptorDemo;
+package com.yco.cglib.MethodInterceptorDemo;
 
 /**
  * 被代理的权限基类
