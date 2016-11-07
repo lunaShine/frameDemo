@@ -1,4 +1,4 @@
-package com.yco.cglib.callbackFilter;
+package com.yco.cglib.callbackFilterDemo;
 
 import com.yco.cglib.Authority;
 import com.yco.cglib.methodInterceptorDemo.AuthorityInterceptor;

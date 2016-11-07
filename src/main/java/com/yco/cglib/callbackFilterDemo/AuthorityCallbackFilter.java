@@ -1,4 +1,4 @@
-package com.yco.cglib.callbackFilter;
+package com.yco.cglib.callbackFilterDemo;
 
 import net.sf.cglib.proxy.CallbackFilter;
 
