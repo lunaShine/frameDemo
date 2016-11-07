@@ -1,4 +1,4 @@
-package com.yco.cglib.MethodInterceptorDemo;
+package com.yco.cglib.methodInterceptorDemo;
 
 import net.sf.cglib.proxy.MethodInterceptor;
 import net.sf.cglib.proxy.MethodProxy;

@@ -1,11 +1,13 @@
-package com.yco.cglib.MethodInterceptorDemo;
+package com.yco.cglib.methodInterceptorDemo;
 
+import com.yco.cglib.Authority;
+import com.yco.cglib.methodInterceptorDemo.AuthorityInterceptor;
 import net.sf.cglib.proxy.Enhancer;
 
 /**
  * Created by yuekexin on 2016/11/7.
  */
-public class cglibTest {
+public class InterceptorTest {
     public static void main(String[] args) {
         Enhancer enhancer = new Enhancer();
         //设置被代理类
